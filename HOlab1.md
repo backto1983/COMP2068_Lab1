@@ -66,4 +66,4 @@ Lab 1 - Markdown language
 * Is a JavaScript object **property** equivalent to a Java class **instance variable**?
 * Is a JavaScript **function** equivalent to a Java **method**?
 
-![Node version](./nodeVersion.jpg)
+![Node version](nodeVersion.JPG)
